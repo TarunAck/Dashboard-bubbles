@@ -1,0 +1,8 @@
+.header {
+	flex: 0 0 50px;
+}
+
+.content {
+	flex: 1;
+	height: 100%;
+}
